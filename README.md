@@ -32,4 +32,4 @@ The dataset was provides by the company  in the Project Brief:
 - Store
   
 # Visualizations
-Visualizations were done in Tableu . Link to the storyboard: 
+Visualizations were done in Tableu . Link to the storyboard: https://github.com/Mmm11222/Rockbuster_SQL1/blob/main/3.10%20_Rockbuster%20Presentation%20.pdf#:~:text=/-,3.10%20_Rockbuster%20Presentation%20.pdf,-t
