@@ -12,4 +12,24 @@ online video service, helps other departments, with data-related
 queries.
 
 # Data 
-The dataset was provides by the company  in the Project brief.
+The dataset was provides by the company  in the Project Brief:
+## Fact Tables
+- Payment
+- Rental
+# Dimension Tables
+- Actor
+- Address
+- Category
+- City
+- Country
+- Customer
+- Film
+- Film Actor
+- Film Category
+- Inventory
+- Language
+- Staff
+- Store
+  
+# Visualizations
+Visualizations were done in Tableu . Link to the storyboard: 
