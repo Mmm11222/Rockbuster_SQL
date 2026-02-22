@@ -39,7 +39,4 @@ The final analysis was translated into a data-driven strategy for the executive 
 * Optimized the digital catalog based on historical rental frequency by genre.
 
 ---
-*Note: This project was developed as part of a professional Data Analytics certification by CareerFoundry
-  
-# Visualizations
-Visualizations were done in Tableu . Link to the storyboard: https://github.com/Mmm11222/Rockbuster_SQL1/blob/main/3.10%20_Rockbuster%20Presentation%20.pdf#:~:text=/-,3.10%20_Rockbuster%20Presentation%20.pdf,-t
+*Note: This project was developed as part of a professional Data Analytics certification by CareerFoundry.
